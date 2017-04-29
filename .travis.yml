@@ -1,8 +1,6 @@
----
 language: python
+sudo: false
 python:
-  - "2.6-dev"
-  - "2.7-dev"
-install: cat /etc/debian_version
-script:
-
+- "2.6"
+- "2.7"
+install:
