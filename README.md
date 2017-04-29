@@ -1,4 +1,4 @@
-* Gamera
+# Gamera
 
 Gamera is a framework for building document analysis applications.  
 It is not a packaged document recognition system, but a toolkit for
@@ -8,7 +8,7 @@ For more information about Gamera, visit the Gamera website at:
 
 http://gamera.informatik.hsnr.de/
 
-** Installation and Usage
+## Installation and Usage
 
 See the INSTALL file for installation instructions,
 or online under
@@ -19,7 +19,7 @@ The complete Gamera documentation is available online at:
 
 http://gamera.informatik.hsnr.de/docs/gamera-docs/
 
-** Authors and License
+## Authors and License
 
 (c)2001-2003 Michael Droettboom, Karl Mac Millan, Ichiro Fujinaga  
 (c)2004-2007 Michael Droettboom  
