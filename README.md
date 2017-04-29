@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/playingaround2017/test123.png?branch=master)](https://travis-ci.org/playingaround2017/test123)
+
 # Gamera
 
 Gamera is a framework for building document analysis applications.  

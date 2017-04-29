@@ -3,12 +3,7 @@ sudo: false
 language: python
 python:
 - "2.7"
-addons:
-  apt:
-    packages:
-    - python-pytest
 install:
 - echo "install overwritten (requirements.txt not available)"
 script:
 - python setup.py build --nowx
-- python -m pytest -v
