@@ -3,7 +3,11 @@ sudo: false
 language: python
 python:
 - "2.7"
+addons:
+  apt:
+    packages:
+    - python-wxpython3.0
 install:
-- pip install --upgrade pip
+- echo "install overwritten"
 script:
 - python setup.py build
