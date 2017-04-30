@@ -1,4 +1,5 @@
-[![Travis CI](https://travis-ci.org/playingaround2017/test123.png?branch=master)](https://travis-ci.org/playingaround2017/test123)
+[![Build Status](https://travis-ci.org/playingaround2017/test123.png?branch=master)](https://travis-ci.org/playingaround2017/test123)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c904f25444134968ac2355b6490b2e3e)](https://www.codacy.com/app/playingaround2017/test123)
 
 # Gamera
 
