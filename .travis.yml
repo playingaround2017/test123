@@ -7,3 +7,6 @@ install:
 - echo "install overwritten (requirements.txt not available)"
 script:
 - python setup.py build --nowx
+addons:
+  srcclr:
+    true
